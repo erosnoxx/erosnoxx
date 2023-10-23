@@ -10,7 +10,7 @@
 🎮 Unity Game Developer<br>
 📚 Lover of Japanese RPGs and Tabletop RPGs<br>
 🏴‍☠️ Devoted Fan of One Piece<br>
-🌐 Navigating the Seas of life and Beyond!<br>
+🌐 Navigating the Seas of Life and Beyond!<br>
 
 
 ![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=erosnoxx&show_icons=true&theme=dracula)
