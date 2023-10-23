@@ -8,7 +8,7 @@
 👨‍💻 **Beginner Backend Developer** and Technology Enthusiast<br>
 🎶 Musician (Rap, Indie Pop, Progressive Rock) and Creative Composer<br>
 🎮 Unity Game Developer<br>
-📚 Lover of Japanese RPGs and Tabletop RPGs<br>
+📚 Lover of Japanese and Tabletop RPGs<br>
 🏴‍☠️ Devoted Fan of One Piece<br>
 🌐 Navigating the Seas of Life and Beyond!<br>
 
