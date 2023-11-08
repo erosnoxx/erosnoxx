@@ -5,7 +5,7 @@
 
 ## About me:
 
-👨‍💻 **Beginner Backend Developer** and Technology Enthusiast<br>
+👨‍💻 **Developer** and Technology Enthusiast<br>
 🎶 Musician (Rap, Indie Pop, Progressive Rock) and Creative Composer<br>
 🎮 Unity Game Developer<br>
 📚 Lover of Japanese and Tabletop RPGs<br>
