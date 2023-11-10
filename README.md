@@ -26,7 +26,7 @@
 </div>
 <br>
 <br>
-Studying, developing myself, and seeking new horizons for my own knowledge. 22 years old with a thirst for new things.</br>
+Studying, self-improvement, and exploring new horizons to expand my knowledge. A 22-year-old with a strong desire for learning and new experiences.</br>
 
 ## Some musics (for curious):
 - [Pecados](https://open.spotify.com/track/56Z4hUjyEJ891822eMPGPT?si=2400da929c4a4a52) (The last one)
