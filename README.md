@@ -28,7 +28,7 @@
 <br>
 Studying, developing myself, and seeking new horizons for my own knowledge. 22 years old with a thirst for new things.</br>
 
-## Some musics (for the curious):
+## Some musics (for curious):
 - [Pecados](https://open.spotify.com/track/56Z4hUjyEJ891822eMPGPT?si=2400da929c4a4a52) (The last one)
 - [Nuvens](https://open.spotify.com/track/2H8WPQ1hX1B1hOS5SU7VCK?si=27df8db3af2d4d61) (My favorite)
 - [Saídas](https://open.spotify.com/track/1dOAvow2ADhsjFJ23b7xWu?si=e0593b76d297469f) 
