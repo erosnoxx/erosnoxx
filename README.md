@@ -1,5 +1,5 @@
 
-### Hi! Eros here!
+### Hi there :P
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erosnox/)[![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/erosnoxx)[![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/02vd03MstXYcUJHqDGCZOX?si=zrSIrnxjTNGi8RRTLKjGfg)
 
