@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
-<h1 align="center">Olá! sou Eros Gabriel</h1>
+<h1 align="center">Eros Gabriel</h1>
 <h3 align="center">Desenvolvedor Fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erosnoxx&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="erosnoxx" /> </p>
