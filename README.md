@@ -15,7 +15,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/eros-gabriel-vieira-51522725b/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" alt="LinkedIn" width="30" height="30" />
     </a>
     <a href="https://github.com/erosnoxx" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30" />
