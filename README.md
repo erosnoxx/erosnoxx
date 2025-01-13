@@ -89,6 +89,9 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
     </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
+    </a>
 </p>
 
 <div align="center">
