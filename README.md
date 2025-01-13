@@ -5,7 +5,7 @@
 <h3 align="center">Desenvolvedor Fullstack</h3>
 
 <p align="center">
-    Sou um desenvolvedor fullstack com experiência em Python, Django e tecnologias modernas de desenvolvimento web. Apaixonado por criar soluções práticas e inovadoras.
+    Sou um desenvolvedor fullstack com experiência em Django, Java Spring Boot, DotNet e tecnologias modernas de desenvolvimento web. Apaixonado por criar soluções práticas e inovadoras.
 </p>
 
 <p align="left">
@@ -14,14 +14,11 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <a href="https://www.linkedin.com/in/eros-gabriel-vieira-51522725b/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
     </a>
     <a href="https://github.com/erosnoxx" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30" />
-    </a>
-    <a href="https://twitter.com/seu-perfil" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30" height="30" />
     </a>
 </p>
 
