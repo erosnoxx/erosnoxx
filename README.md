@@ -2,7 +2,7 @@
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
 </p>
 <h1 align="center">Eros Gabriel</h1>
-<h3 align="center">Desenvolvedor Fullstack</h3>
+<h3 align="center">Desenvolvedor de Software</h3>
 
 <p align="center">
     Sou um desenvolvedor fullstack com experiência em Django, Java Spring Boot, DotNet e tecnologias modernas de desenvolvimento web. Apaixonado por criar soluções práticas e inovadoras.
