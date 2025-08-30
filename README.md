@@ -29,6 +29,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=erosnoxx&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-<p align="center">
-    Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato!
-</p>
