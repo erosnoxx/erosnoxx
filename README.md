@@ -1,5 +1,5 @@
 ### Olá! Sou Eros Vieira, Desenvolvedor de Software
-### Backend | Java | Spring | Spring Boot | React.Js 👨‍💻
+### Backend | Java | DotNet | Spring Boot | React
 
 
 <a href="mailto:erosgvieira@gmail.com" target="_blank">
