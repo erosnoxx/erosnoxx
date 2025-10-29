@@ -11,10 +11,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCvuy9SfRosI1h32ilGBh-8w" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://medium.com/@erosgvieira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
