@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eros-gabriel-vieira-51522725b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCvuy9SfRosI1h32ilGBh-8w" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
