@@ -2,46 +2,6 @@
 
 ###
 
-<h3 align="center">U can find me here</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/eros-gabriel-vieira-51522725b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCvuy9SfRosI1h32ilGBh-8w" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://medium.com/@erosgvieira" target="_blank">
-    <img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">My usual stack</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erosnoxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erosnoxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
